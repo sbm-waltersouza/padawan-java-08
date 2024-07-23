@@ -25,7 +25,7 @@ public class TopicosController {
 	@Autowired
 	private TopicoRepository topicoRepository;
 	
-	@Autowired 
+	@Autowired
 	private CursoRepository cursoRepository;
 	
 	@GetMapping
